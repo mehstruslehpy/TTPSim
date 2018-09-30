@@ -3,7 +3,7 @@
   * TTP stands for "Taks Toy Processor" it is a processor design used for an intro to assembly programming class I took.
 # TIPS AND USAGE:
 * For a first time run of the emulator try: __./main Progams/PascalFinal.ram__
-* running __./main &lt;yourbinary&gt;__ will run your binary on the processor emulator and print output
+* Running __./main &lt;yourbinary&gt;__ will run your binary on the processor emulator and print output
   * output consists of the next instruction to run as read in from ram, a dump of the registers and a dump of the contents of ram
 * I wrote several one liner tools for debugging along these lines under the DebugUtils directory
 * To use my debugging one liners do: __./DebugUtils/&lt;debugtool&gt; &lt;yourbinary&gt;__
