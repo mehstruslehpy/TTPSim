@@ -14,18 +14,18 @@
 * you probably want to adjust your screen and font to fit the ram dump nicely into your screen ideally you want the output to look like a big rectangle
 * the program should exit with the pc one less than what it would be in logisim otherwise the state of the registers and ram should be identical (if not you found a bug)
 # TODO:
-* clean up the source code and make it look pretty
-* doxygen docs?
-* Instruction docs?
-* IO hardware?
-* breakpoint mechanism?
-* write more tools
-* test more instructions
-* add more hardware
-* add more instructions
-* get clarification on how the flags are supposed to work
-* add user level interface for running different variations of the hardware, mainly ram size but register mods might be cool too
-* consider making it possible for a user to install/augment the instruction set
+[] clean up the source code and make it look pretty
+[] doxygen docs?
+[] Instruction docs?
+[] IO hardware?
+[] breakpoint mechanism?
+[] write more tools
+[] test more instructions
+[] add more hardware
+[] add more instructions
+[] get clarification on how the flags are supposed to work
+[] add user level interface for running different variations of the hardware, mainly ram size but register mods might be cool too
+[] consider making it possible for a user to install/augment the instruction set
 
 # DEMO:
 ![link to demo gif goes here](https://raw.githubusercontent.com/mehstruslehpy/Documents/master/C%2B%2B/TTPSim/TTPSimAndAsmDemo.gif)
